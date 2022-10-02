@@ -12,4 +12,4 @@ Please do not copy and advertise this as your own work. You are free to use this
 1. Added better obfuscation
 2. Credit card stealer
 3. Get user's discord token after they reset password
-4. If you are using the older versions of ItroublveTSC 
+4. If you are using the older versions of ItroublveTSC they won't work!
